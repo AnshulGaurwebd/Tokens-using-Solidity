@@ -5,7 +5,7 @@ This is a simple token smart contract written in Solidity.
 **Discription:**
 Introducing "BITCOIN" (BIT), a custom token on Ethereum. This contract enables token creation, distribution, and destruction within the blockchain ecosystem. Users can mint new tokens with the "mint" function and burn existing ones with the "burn" function, ensuring balance integrity. With public variables for token details and a mapping for address balances, this contract offers a streamlined approach to decentralized finance on Ethereum.
 
-*Features:*
+**Features:**
 
 * Stores token details: name, abbreviation, and total supply.
 * Tracks balances for individual addresses using a mapping.
